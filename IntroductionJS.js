@@ -1,4 +1,5 @@
-/*
+/* Introduction to JavaScript
+
 1. Variables in JavaScript - var, let and const;
 
 Variables are containers for storing data values.
@@ -15,13 +16,14 @@ const is block-scoped and cannot be reassigned or redeclared.
 
 
 2. Data Types in JavaScript : Primitive and Non-Primitive
+
 Data types specify the type of data that can be stored and manipulated within a program.
 
 [a] Primitive Data Types: 
 
-Number: Represents both integer and floating-point numbers.
+Number: Represents both 'integer' and 'floating-point' numbers.
 
-String: Represents a sequence of characters enclosed in single or double quotes.
+String: Represents a sequence of characters enclosed in 'single' or 'double' quotes.
 
 Boolean: Represents a logical entity and can have two values: true or false.
 
